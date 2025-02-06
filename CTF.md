@@ -26,9 +26,9 @@ oioi 小鬼，好东西出来了
 
 拿到一个网站得先看根目录是啥吧
 
-查看 phpinfo
+查看phpinfo
 
-原来是你小子 /var/www/html/PIzABXDg/
+发现是/var/www/html/PIzABXDg/
 
 ![image](https://github.com/user-attachments/assets/a77af2a2-947d-4755-be5c-db819391f8c9)
 
